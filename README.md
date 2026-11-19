@@ -5,4 +5,4 @@
 - Explored resizing my Linkedin Profile to fit LinkedIn Shot.
 - Built a JPG to PNG converter.
  - Uses arguments passed from the terminal.
- - Run python3 JPGtoPNG/JPGtoPNGConverter.py JPGtoPNG/Pokedex/ JPGtoPNG/new-images/
+ - Run python3 JPGtoPNG/JPGtoPNGConverter.py JPGtoPNG/Pokedex/ JPGtoPNG/new-images/ to test.
